@@ -1,4 +1,0 @@
-ExamGithub
-ExamGithub.zip
-desktopls.txt
-test.txt
